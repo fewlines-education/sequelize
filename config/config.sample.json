@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "fenn",
+    "password": null,
+    "database": "my_commerce_site_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "fenn",
+    "password": null,
+    "database": "my_commerce_site_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "fenn",
+    "password": null,
+    "database": "my_commerce_site_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
